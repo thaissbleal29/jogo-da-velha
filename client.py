@@ -4,7 +4,7 @@ import socket
 # Criando o socket do cliente
 cliente = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
-IP_SERVIDOR = "192.168.3.17"
+IP_SERVIDOR = "127.0.0.1"
 PORTA_SERVIDOR = 50000
 
 print(f"Tentando se conectar ao servidor {IP_SERVIDOR} na porta {PORTA_SERVIDOR}...")
