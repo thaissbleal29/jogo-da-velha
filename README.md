@@ -24,14 +24,14 @@ Para testar a comunicação, você precisará abrir **dois terminais (janelas de
 #### Passo 1: Iniciar o Servidor
 O servidor precisa ser iniciado primeiro para ficar ouvindo e aguardando as conexões. No primeiro terminal, execute:
 ```bash
-python servidor.py
+python server.py
 ```
 *(Nota: O terminal ficará travado/em execução, o que significa que o servidor está ativo).*
 
 #### Passo 2: Iniciar o Cliente
 Com o servidor já rodando, abra um segundo terminal na mesma pasta e execute:
 ```bash
-python cliente.py
+python client.py
 ```
 
 ### 💡 Dicas de Teste
