@@ -1,9 +1,9 @@
 # TRABALHO DE REDES DE COMPUTADORES I (Sockets)
-## Integrantes
+## 👩‍💻 Integrantes
 - Thaís Sousa 
 - Lorena de Carvalho
 
- ## Aplicação
+ ## 🖥️ Aplicação
  Um jogo da velha que trabalha o uso de sockets por meio da troca de turnos entre dois sistemas finais durante uma partida.
  Nesse caso, temos o cliente (jogador 1), que solicita a conexão e inicia a jogada, e o servidor (jogador 2), que espera e aceita a conexão e, então, 
  após a vez do jogador 1, realiza sua jogada. Dessa forma, cada hospedeiro joga alternadamente e envia mensagens que informam o estado da partida por
